@@ -1,2 +1,0 @@
-# AjayYadavOOPsAssignmentSolution
-OOPsAssignmentSolution_department_usingExtend
